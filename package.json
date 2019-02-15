@@ -1,0 +1,15 @@
+{
+  "name": "hue_local",
+  "version": "0.1.0",
+  "description": "Finds a local hue bridge and allows simple on off control of lights connected to the bridge.",
+  "main": "hue.js",
+  "dependencies": {
+    "node-hue-api": "^2.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Hamilton",
+  "license": "MIT"
+}
