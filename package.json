@@ -11,5 +11,22 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Michael Hamilton",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-hamilton/hue_local.git"
+  },
+  "keywords": [
+    "hue",
+    "hue",
+    "local",
+    "hue",
+    "lights",
+    "node",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/michael-hamilton/hue_local/issues"
+  },
+  "homepage": "https://github.com/michael-hamilton/hue_local#readme"
 }

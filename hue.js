@@ -1,4 +1,7 @@
-// Docs: https://www.npmjs.com/package/node-hue-api
+/* Hue Local
+ * A simple node.js command line application for controlling Hue lights over a local network 
+ * Copyright 2019 - Michael Hamilton
+ */
 
 const hue = require('node-hue-api');
 const readline = require('readline');
