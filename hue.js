@@ -18,7 +18,7 @@ process.stdin.setRawMode(true);
 	
 	let api = new hue.HueApi();
 
-	const username = await api.registerUser(bridge[0].ipaddress, 'MSQUARE HUE TEST');
+	const username = await api.registerUser(bridge[0].ipaddress, 'HUE TEST');
 	console.log(`Username: ${username}`);
 
 	// Establish a connection with the Hue Bridge using host/username 
